@@ -1,0 +1,22 @@
+#blockResult{
+  display: flex;
+}
+
+.currencyTransfer{
+  margin: 30px;
+}
+
+.blockCurTrf{
+  margin-top: 10px;
+}
+
+#btnAdd{
+  position: fixed;
+}
+
+#btnDelete{
+  position: fixed;
+  margin-left: 250px;
+}
+
+   
